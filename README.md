@@ -1,7 +1,7 @@
 <h1 align="center">Screen Information</h1>
 <h3 align="center">Android app that displays details about your display.<br/>Implementation details:</h3>
 
-- 🪛 Java **(coroutines,flows)**
+- 🪛 Java
 
 - 📊 Optimized **(MultiDex,shrinked resources,minify,etc)**
 
