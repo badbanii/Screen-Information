@@ -5,7 +5,7 @@
 
 - 🔒 Closed Source 
 
-- 📊 Optimized **(MultiDex,shrinked resources,minify,etc)**
+- 📊 Optimized **(shrinked resources,minify,etc)**
 
 <h3 align="left">Screenshots:</h3>
 <h3 align="left">Download:</h3>
